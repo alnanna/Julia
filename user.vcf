@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Julia;durand;;;
+FN: Durand  Julia 
+ORG:EuroLawyers;
+TITLE:Jurist\Eurolawyers, chef
+EMAIL;type=INTERNET;type=WORK;type=pref:alexander.durand.88@gmail.com
+TEL;type=WORK;type=VOICE:+46761152727
+item1.ADR;type=WORK;type=pref:;;Sveavgägen 52, 111 34;;;138577;Sweden
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:eurolawyers.net
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
