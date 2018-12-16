@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Julia;durand;;;
+N:Julia;Durand;;;
 FN: Durand  Julia 
 ORG:EuroLawyers;
 TITLE:Jurist
-EMAIL;type=INTERNET;type=WORK;type=pref:alexander.durand.88@gmail.com
-TEL;type=WORK;type=VOICE:+46761152727
+EMAIL;type=INTERNET;type=WORK;type=pref:jdurand@eurolawyers.net
+TEL;type=WORK;type=VOICE:+46708550102
 item1.ADR;type=WORK;type=pref:;;Sveavgägen 52, 111 34;;;Stockholm;Sweden
 item1.X-ABADR:sg
 item2.URL;type=pref:https://www.linkedin.com/in/julia-durand-15543b172/
